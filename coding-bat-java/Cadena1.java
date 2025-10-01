@@ -1,8 +1,6 @@
 /* Problemas básicos de cadenas: sin bucles. Use + para combinar cadenas, str.length() es la cantidad de caracteres en una cadena, str.substring(i, j) extrae la subcadena comenzando en el índice i y continuando hasta el índice j, pero sin incluirlo.
 */
 
-package CodingBat.Cadena1;
-
 public class Cadena1 {
     /* 
     Dada una cadena nombre (ejemplo: "Bob"), retorna un saludo con el format "Hola Bob!".

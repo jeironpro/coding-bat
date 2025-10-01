@@ -2,8 +2,6 @@
  * Problemas básicos de matrices: sin bucles. Utilice a[0], a[1], ... para acceder a los elementos de una matriz, a.length es la longitud (tenga en cuenta que s.length() es para cadenas). Asigne una nueva matriz de esta manera: int[] a = new int[10]; // matriz de longitud 10
  */
 
-package CodingBat.Matriz1;
-
 public class Matriz1 {
     /* 
     Dada una matriz de enteros, retorna verdadero si el numero 6 aparece al principio o al final la matriz. La matriz tendran una longitud de 1 o más.
